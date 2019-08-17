@@ -27,3 +27,4 @@ In summary, our findings showed that the best model depends on the measure that 
 
 If both precision and recall are important, then the model with the highest f-score should be considered, which for this paper was the AdaBoost model. Furthermore, in hypothesis testing, the AdaBoost model proved to be a statistically significant result in having the lowest error rate, compared to the Random forests model. The analysis of ROC curves indicates that the AdaBoost model also had the highest AUC value. Overall, the AdaBoost model performs notably well in comparison to the other classifiers, and should be highly considered by stakeholders to model the success of Kickstarter campaigns.
 
+ 
